@@ -7,3 +7,5 @@ Display current directory contents.
 Create a script that creates a directory named.
 Move the file.
 Delete the directory.
+Write a script that changes the working directory to the previous one.
+
