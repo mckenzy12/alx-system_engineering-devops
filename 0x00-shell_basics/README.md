@@ -13,4 +13,5 @@ Write a file that prints file.
 Create a symbolic link to /bin/ls, named __ls__.
 Create a script that copies all the HTML files from the current working directory to the parent ofthe working directory.
 Create a file that moves all files begining with an uppercase letter to the directory.
+Create a script that deletes all files in the current working directory that end with the character ~.
 
